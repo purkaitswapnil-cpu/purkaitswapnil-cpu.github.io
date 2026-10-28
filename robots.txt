@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /checkout
+Disallow: /cart
+Disallow: /order/
+Disallow: /wishlist
+Disallow: /search
+
+Host: https://purkaitswapnil-cpu.github.io
+Sitemap: https://purkaitswapnil-cpu.github.io/sitemap.xml
