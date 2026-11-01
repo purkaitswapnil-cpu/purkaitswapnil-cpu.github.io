@@ -41,6 +41,11 @@
 <priority>0.6</priority>
 </url>
 <url>
+<loc>https://purkaitswapnil-cpu.github.io/returns</loc>
+<changefreq>weekly</changefreq>
+<priority>0.6</priority>
+</url>
+<url>
 <loc>https://purkaitswapnil-cpu.github.io/contact</loc>
 <changefreq>weekly</changefreq>
 <priority>0.6</priority>
