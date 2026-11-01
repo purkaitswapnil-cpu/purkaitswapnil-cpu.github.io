@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/3ialfzw5u35hx.css","style"]
+:HL["/_next/static/chunks/0elqckl5ipvke.css","style"]
 :HC["/",""]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"chameli-flower-anklet","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"products","h":131136,"c":"$Q2"}]]
-0:{"b":"MY2PUpSH7IYhoUui4fmvG","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"BfXpRu9NYHN2G5OwxI_J3","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
