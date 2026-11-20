@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/1mhqkh79czua3.css","style"]
+:HL["/_next/static/chunks/3o2rq57tk_llg.css","style"]
 :HC["/",""]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"gulabi-marble-sculpt-earrings","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"products","h":131136,"c":"$Q2"}]]
-0:{"b":"3Ia8OUaTwGRt0cNfGytf_","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"e0nCo4zl3i3hmUood_ssx","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
