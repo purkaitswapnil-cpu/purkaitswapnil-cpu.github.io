@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/32ozrgfwrb80y.css","style"]
+:HL["/_next/static/chunks/13oc97051ht21.css","style"]
 :HC["/",""]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"shehad-amber-pendant","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"products","h":131136,"c":"$Q2"}]]
-0:{"b":"ZfOSRxMcBItHsS8LhLRHA","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"dBq-qMrM-K4pyySc0KpE4","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
