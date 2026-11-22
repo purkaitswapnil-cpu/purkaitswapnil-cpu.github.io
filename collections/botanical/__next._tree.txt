@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/0vhzh2h9osio0.css","style"]
+:HL["/_next/static/chunks/0fhc_-ced6xlf.css","style"]
 :HC["/",""]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"handle","t":"d","k":"botanical","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"collections","h":131136,"c":"$Q2"}]]
-0:{"b":"Zmq9eT02MWZt7nzMziHm5","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"iTcGaYG5yKz4KyCvrQFOm","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
