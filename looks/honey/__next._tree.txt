@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/00ybo-f97ocvb.css","style"]
+:HL["/_next/static/chunks/1qmw_bfv2vb4p.css","style"]
 :HC["/",""]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"honey","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"looks","h":131136,"c":"$Q2"}]]
-0:{"b":"NZk60BMxtBtQpPs1LEvf8","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"COgSpmW9woB0HEwtSRyuP","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
